@@ -1,0 +1,1 @@
+export { triple } from './triple.js'

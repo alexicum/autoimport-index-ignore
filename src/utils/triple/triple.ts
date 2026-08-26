@@ -1,0 +1,1 @@
+export const triple = (a: number): number => a * a * a
